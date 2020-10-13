@@ -13,24 +13,24 @@ This is my Hackintosh build using a Dell Optiplex 9020 Ultra Small Form Factor (
  ![alt test](/Pictures/AboutOptiplex.png)
   
 # Confirmed working
-CPU, RAM, Fans, Cooling etc. ✔ Stable temps.
-Ethernet ✔
-Graphics ✔
-HDMI (via adapter) ✔
-Sleep/wake Function ✔
-Power Management ✔
-App Store ✔
-iMessage ✔
-iCloud ✔
-FaceTime ✔
-USB with 2.0, 3.0 Ports ✔
-Bootloader ✔
-HDMI Audio ✔
-Volume Hotkeys ✔
-No WiFi and Bluetooth (there is no WiFi/BT module on this board, and I'm not using a Fenvi card here due to the USFF design)
-AirDrop - No, due to lack if WiFi/BT module
-HandOff - No, due to lack if WiFi/BT module
-Side Car - No, due to lack if WiFi/BT module
+- CPU, RAM, Fans, Cooling etc. ✔ Stable temps.
+- Ethernet ✔
+- Graphics ✔
+- HDMI (via adapter) ✔
+- Sleep/wake Function ✔
+- Power Management ✔
+- App Store ✔
+- iMessage ✔
+- iCloud ✔
+- FaceTime ✔
+- USB with 2.0, 3.0 Ports ✔
+- Bootloader ✔
+- HDMI Audio ✔
+- Volume Hotkeys ✔
+- No WiFi and Bluetooth (there is no WiFi/BT module on this board, and I'm not using a Fenvi card here due to the USFF design)
+- AirDrop - No, due to lack if WiFi/BT module
+- HandOff - No, due to lack if WiFi/BT module
+- Side Car - No, due to lack if WiFi/BT module
 
 # Notes:
 - I'm not responsible for any harm done to your PC :-) Use my experiences and EFI at your own risk, even though I think this doesn't do much harm ;-).
