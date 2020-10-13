@@ -1,5 +1,5 @@
 # Optiplex-9020-USFF-Hackintosh
-This is my Hackintosh build using a Dell Optiplex 9020 Ultra Small Form Factor.
+This is my Hackintosh build using a Dell Optiplex 9020 Ultra Small Form Factor (in the Hackintosh community, also known as a OptiMac).
 
 # PC specifications:
 - OS's installed: Big Sur dualbooted with Windows 10 Pro
@@ -10,7 +10,7 @@ This is my Hackintosh build using a Dell Optiplex 9020 Ultra Small Form Factor.
 - Graphics card: Intel HD Graphics 4600
 - Using a Display port to HDMI adapter to connect to my TV
   
- ![alt test](/Pictures/Temp.png)
+ ![alt test](/Pictures/AboutOptiplex.png)
   
 # Confirmed working
 CPU, RAM, Fans, Cooling etc. ✔ Stable temps.
@@ -50,30 +50,25 @@ https://github.com/acidanthera/WhateverGreen/releases
 For convenvience purposes, use either OpenCore Configurator or Hackintool to mount EFI and update the Kexts.
 
 # BIOS Settings (from tonymacx86.com):
-...URL
+https://www.tonymacx86.com/threads/the-4k-dell-optimac-big-sur-opencore-thread-dell-optiplex-7020-and-9020.302383/
 
 # Work Procedure:
-...URL
+https://www.tonymacx86.com/threads/the-4k-dell-optimac-big-sur-opencore-thread-dell-optiplex-7020-and-9020.302383/
 
 # Serial number:
 You need to make your own serial number, so that your iCloud etc. will work without using someone else his serial number.
 
 # Updating Hackintosh
-...URL
 - In general; watch others do first to see if they succeed: 
 - Make sure first to install the latest Kext files
 - Install latest OpenCore; but first make sure that this works according other users. Latest OpenCore build:
 https://github.com/acidanthera/OpenCorePkg/releases
 
-# EFI ZIP file:
-Download here. The EFI is without my serial number:
-...URL
-
 # Extras
 n/a
 
 # Resources
-....TONY URL
+https://www.tonymacx86.com/threads/the-4k-dell-optimac-big-sur-opencore-thread-dell-optiplex-7020-and-9020.302383/
 https://hackintosh.gitbook.io 
 https://dortania.github.io/OpenCore-Install-Guide/extras/big-sur/#backstory
 https://github.com/acidanthera/OpenCorePkg/releases
@@ -105,7 +100,5 @@ https://www.youtube.com/watch?v=XyDJMNMFi6I&t=58s
 2. Updated to every latest Big Sur beta and OpenCore beta version.
 3. 13-Oct-2020: Updated to latest Public Beta (20A5384c) and latest final OpenCore Build (v0.6.2). Stability is great.
 
-Download my latest Big Sur EFI here:
-...mega URL....
-
-
+# Download my latest Big Sur EFI here:
+https://mega.nz/folder/R0xwBAKJ#4hIlvkFZhdFMzu5AvSbppQ
