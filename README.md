@@ -57,6 +57,20 @@ https://www.tonymacx86.com/threads/the-4k-dell-optimac-big-sur-opencore-thread-d
 # Work Procedure:
 https://www.tonymacx86.com/threads/the-4k-dell-optimac-big-sur-opencore-thread-dell-optiplex-7020-and-9020.302383/
 
+So far Big Sur with OpenCore is working very well. A small how-to here: 
+
+PRECAUSION:
+- Currently using Big Sur Public Beta. 
+- I'm using OpenCore 0.6.2. You can download the latest build from here which you can use during the EFI creation as per below: https://github.com/acidanthera/OpenCorePkg/releases
+- Also great info from: https://dortania.github.io/OpenCore-Install-Guide/extras/big-sur/#backstory
+
+- USB preparation and installation of Big Sur according this video:
+https://www.youtube.com/watch?v=J22vqnS-QZ4&t=2s
+- Create your EFI:
+https://www.youtube.com/watch?v=XyDJMNMFi6I&t=58s
+- When the EFI is done, add your SSDT's and DTSD's to the EFI partition using OpenCoreConfigurator to mount the EFI
+- After that, create your own Serial Number using OpenCoreConfigurator
+
 # Serial number:
 You need to make your own serial number, so that your iCloud etc. will work without using someone else his serial number.
 
@@ -78,21 +92,6 @@ https://github.com/williambj1/OpenCore-Factory/releases
 https://mackie100projects.altervista.org/download-opencore-configurator/
 https://github.com/Pavo-IM/OC-Gen-X
 https://github.com/Pavo-IM/ocbuilder
-
-# BIG SUR on OpenCore
-So far Big Sur with OpenCore is working very well. A small how-to here: 
-
-PRECAUSION:
-- Currently using Big Sur Public Beta. 
-- I'm using OpenCore 0.6.2. You can download the latest build from here which you can use during the EFI creation as per below: https://github.com/acidanthera/OpenCorePkg/releases
-- Also great info from: https://dortania.github.io/OpenCore-Install-Guide/extras/big-sur/#backstory
-
-- USB preparation and installation of Big Sur according this video:
-https://www.youtube.com/watch?v=J22vqnS-QZ4&t=2s
-- Create your EFI:
-https://www.youtube.com/watch?v=XyDJMNMFi6I&t=58s
-- When the EFI is done, add your SSDT's and DTSD's to the EFI partition using OpenCoreConfigurator to mount the EFI
-- After that, create your own Serial Number using OpenCoreConfigurator
 
 # Latest Changes in uploaded Big Sur EFI (without a Serial Number):
 (Item 0 is the oldest):
