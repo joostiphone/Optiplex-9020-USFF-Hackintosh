@@ -103,3 +103,6 @@ https://github.com/Pavo-IM/ocbuilder
 
 # Download my latest Big Sur EFI here:
 https://mega.nz/folder/R0xwBAKJ#4hIlvkFZhdFMzu5AvSbppQ
+
+# Update your OpenCore EFI
+https://github.com/joostiphone/Update-OpenCore-to-latest-version
