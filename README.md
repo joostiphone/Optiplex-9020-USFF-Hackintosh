@@ -75,7 +75,7 @@ https://www.youtube.com/watch?v=XyDJMNMFi6I&t=58s
 You need to make your own serial number, so that your iCloud etc. will work without using someone else his serial number.
 
 # Updating Hackintosh
-- In general; watch others do first to see if they succeed: 
+- In general; watch others do first to see if they succeed 
 - Make sure first to install the latest Kext files
 - Install latest OpenCore; but first make sure that this works according other users. Latest OpenCore build:
 https://github.com/acidanthera/OpenCorePkg/releases
@@ -97,9 +97,10 @@ https://github.com/Pavo-IM/ocbuilder
 (Item 0 is the oldest):
 
 0. Installed my system succesfully using OpenCore 0.6.0
-1. Tweaked it
+1. Tweaked it.
 2. Updated to every latest Big Sur beta and OpenCore beta version.
-3. 13-Oct-2020: Updated to latest Public Beta (20A5384c) and latest final OpenCore Build (v0.6.2). Stability is great.
+3. 13-Oct-2020: Updated to latest Public Beta (20A5384c) and latest final OpenCore Build (v0.6.2).
+4. 23-Nov-2020: Updated to latest Big Sur version 11.0.1 (20B29) and latest final OpenCore build (v0.6.3).
 
 # Download my latest Big Sur EFI here:
 https://mega.nz/folder/R0xwBAKJ#4hIlvkFZhdFMzu5AvSbppQ
