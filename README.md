@@ -27,6 +27,7 @@ This is my Hackintosh build using a Dell Optiplex 9020 Ultra Small Form Factor (
 - FaceTime ✔
 - USB with 2.0, 3.0 Ports ✔
 - Bootloader ✔
+- Encryption (FileVault2) ✔ 
 - HDMI Audio ✔
 - Volume Hotkeys ✔
 - No WiFi and Bluetooth (there is no WiFi/BT module on this board, and I'm not using a Fenvi card here due to the USFF design)
