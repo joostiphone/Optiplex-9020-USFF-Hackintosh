@@ -62,7 +62,7 @@ So far Big Sur with OpenCore is working very well. A small how-to here:
 
 PRECAUSION:
 - Currently using Big Sur Public Beta. 
-- I'm using OpenCore 0.6.2. You can download the latest build from here which you can use during the EFI creation as per below: https://github.com/acidanthera/OpenCorePkg/releases
+- You can download the latest build from here which you can use during the EFI creation as per below: https://github.com/acidanthera/OpenCorePkg/releases
 - Also great info from: https://dortania.github.io/OpenCore-Install-Guide/extras/big-sur/#backstory
 
 - USB preparation and installation of Big Sur according this video:
@@ -80,6 +80,9 @@ You need to make your own serial number, so that your iCloud etc. will work with
 - Make sure first to install the latest Kext files
 - Install latest OpenCore; but first make sure that this works according other users. Latest OpenCore build:
 https://github.com/acidanthera/OpenCorePkg/releases
+
+# Update your OpenCore EFI (small how-to)
+https://github.com/joostiphone/Update-OpenCore-to-latest-version
 
 # Extras
 n/a
@@ -106,5 +109,4 @@ https://github.com/Pavo-IM/ocbuilder
 # Download my latest Big Sur EFI here:
 https://mega.nz/folder/R0xwBAKJ#4hIlvkFZhdFMzu5AvSbppQ
 
-# Update your OpenCore EFI
-https://github.com/joostiphone/Update-OpenCore-to-latest-version
+
