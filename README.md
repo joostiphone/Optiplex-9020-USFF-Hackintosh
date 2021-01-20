@@ -60,10 +60,10 @@ https://www.tonymacx86.com/threads/the-4k-dell-optimac-big-sur-opencore-thread-d
 
 So far Big Sur with OpenCore is working very well. A small how-to here: 
 
-PRECAUSION:
-- Currently using Big Sur Public Beta. 
+PRECAUSION/Notes:
 - You can download the latest build from here which you can use during the EFI creation as per below: https://github.com/acidanthera/OpenCorePkg/releases
 - Also great info from: https://dortania.github.io/OpenCore-Install-Guide/extras/big-sur/#backstory
+- Formally, OpenCore is still in beta, but releases are overall noted as RELEASE instead of DEVELOPMENT version. I always recommend to choose the RELEASE version.
 
 - USB preparation and installation of Big Sur according this video:
 https://www.youtube.com/watch?v=J22vqnS-QZ4&t=2s
@@ -73,7 +73,7 @@ https://www.youtube.com/watch?v=XyDJMNMFi6I&t=58s
 - After that, create your own Serial Number using OpenCoreConfigurator
 
 # Serial number:
-You need to make your own serial number, so that your iCloud etc. will work without using someone else his serial number.
+You need to make your own serial number, so that your iCloud etc. will work without using someone else his serial number. In OC GEN-X or in OpenCore Configurator you can generate a new one if you don't have one yet, or if you need a new one.
 
 # Updating Hackintosh
 - In general; watch others do first to see if they succeed 
@@ -104,7 +104,8 @@ https://github.com/Pavo-IM/ocbuilder
 1. Tweaked it.
 2. Updated to every latest Big Sur beta and OpenCore beta version.
 3. 13-Oct-2020: Updated to latest Public Beta (20A5384c) and latest final OpenCore Build (v0.6.2).
-4. 23-Nov-2020: Updated to latest Big Sur version 11.0.1 (20B29) and latest final OpenCore build (v0.6.3).
+4. 23-Nov-2020: Updated to latest Big Sur version 11.0.1 (20B29) and latest OpenCore build (v0.6.3).
+5. 20-Jan-2021: Updated to latest Big Sur version 11.1 (20C69) and latest OpenCore build (v0.6.6).
 
 # Download my latest Big Sur EFI here:
 https://mega.nz/folder/R0xwBAKJ#4hIlvkFZhdFMzu5AvSbppQ
