@@ -12,7 +12,7 @@ This is my Hackintosh build using a Dell Optiplex 9020 Ultra Small Form Factor (
 - Graphics card: Intel HD Graphics 4600
 - Using a Display port to HDMI adapter to connect to my TV
   
- ![alt test](/Pictures/AboutOptiplex2.png)
+ ![alt test](/Pictures/AboutOptiplex3.png)
   
 # Confirmed working
 - CPU, RAM, Fans, Cooling etc. ✔ Stable temps.
