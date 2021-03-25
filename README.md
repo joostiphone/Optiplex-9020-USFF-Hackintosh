@@ -12,7 +12,7 @@ This is my Hackintosh build using a Dell Optiplex 9020 Ultra Small Form Factor (
 - Graphics card: Intel HD Graphics 4600
 - Using a Display port to HDMI adapter to connect to my TV
   
- ![alt test](/Pictures/AboutOptiplex3.png)
+ ![alt test](/Pictures/AboutOptiplex4.png)
   
 # Confirmed working
 - CPU, RAM, Fans, Cooling etc. ✔ Stable temps.
@@ -98,6 +98,8 @@ https://github.com/Pavo-IM/OC-Gen-X
 https://github.com/Pavo-IM/ocbuilder
 
 # Latest Changes in uploaded Big Sur EFI (without a Serial Number):
+Please note that I only use the latest Stable released versions of MacOS and OpenCore (so no beta's, nighly builds or latest commitments).
+
 (Item 0 is the oldest):
 
 0. Installed my system succesfully using OpenCore 0.6.0
@@ -107,6 +109,7 @@ https://github.com/Pavo-IM/ocbuilder
 4. 23-Nov-2020: Updated to latest Big Sur version 11.0.1 (20B29) and latest OpenCore build (v0.6.3).
 5. 20-Jan-2021: Updated to latest Big Sur version 11.1 (20C69) and latest OpenCore build (v0.6.6).
 6. 13-Feb-2021: Updated to latest Big Sur version 11.2.1 (20D74).
+7. 25-March-2021: Updated to latest Big Sur version 11.2.3 (20D91) and latest OpenCore build (v0.6.7).
 
 # Download my latest Big Sur EFI here:
 https://mega.nz/folder/R0xwBAKJ#4hIlvkFZhdFMzu5AvSbppQ
