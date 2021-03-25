@@ -41,14 +41,20 @@ This is my Hackintosh build using a Dell Optiplex 9020 Ultra Small Form Factor (
 # Kexts:
 Make sure (!) you are using the latest kexts: 
 
-- FakeSMC.kext
-https://bitbucket.org/RehabMan/os-x-fakesmc-kozlek/downloads/
+- AppleALC.kext
+https://github.com/acidanthera/applealc/releases
+- IntelMausi.kext
+https://github.com/acidanthera/IntelMausi/releases
+- SMCProcessor.kext
+It's part of the VirtualSMC zip as per below kext
 - USBInjectAll.kext
 https://bitbucket.org/RehabMan/os-x-usb-inject-all/downloads/
 - Lilu.kext
 https://github.com/acidanthera/Lilu/releases
 - WhateverGreen.kext
 https://github.com/acidanthera/WhateverGreen/releases
+- VirtualSMC.kext
+https://github.com/acidanthera/VirtualSMC/releases
 
 For convenvience purposes, use either OpenCore Configurator or Hackintool to mount EFI and update the Kexts.
 
@@ -58,7 +64,7 @@ https://www.tonymacx86.com/threads/the-4k-dell-optimac-big-sur-opencore-thread-d
 # Work Procedure:
 https://www.tonymacx86.com/threads/the-4k-dell-optimac-big-sur-opencore-thread-dell-optiplex-7020-and-9020.302383/
 
-So far Big Sur with OpenCore is working very well. A small how-to here: 
+So far Big Sur with OpenCore is working very well. A small how-to here, because the topic-owner doesn't want to share his EFI: 
 
 PRECAUSION/Notes:
 - You can download the latest build from here which you can use during the EFI creation as per below: https://github.com/acidanthera/OpenCorePkg/releases
@@ -113,5 +119,3 @@ Please note that I only use the latest Stable released versions of MacOS and Ope
 
 # Download my latest Big Sur EFI here:
 https://mega.nz/folder/R0xwBAKJ#4hIlvkFZhdFMzu5AvSbppQ
-
-
