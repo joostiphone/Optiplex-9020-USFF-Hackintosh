@@ -88,6 +88,8 @@ You need to make your own serial number, so that your iCloud etc. will work with
 https://github.com/acidanthera/OpenCorePkg/releases
 
 # Update your OpenCore EFI (small how-to)
+![alt test](Pictures/OpenCoreUpdate.png)
+
 https://github.com/joostiphone/Update-OpenCore-to-latest-version
 
 # Extras
