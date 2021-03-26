@@ -1,6 +1,7 @@
 # Optiplex-9020-USFF-Hackintosh
 This is my Hackintosh build using a Dell Optiplex 9020 Ultra Small Form Factor (in the Hackintosh community, also known as a OptiMac).
 
+ ![alt test](/Pictures/AboutOptiplex4.png)
  ![alt test](/Pictures/OptiMac.jpg)
 
 # PC specifications:
@@ -12,7 +13,6 @@ This is my Hackintosh build using a Dell Optiplex 9020 Ultra Small Form Factor (
 - Graphics card: Intel HD Graphics 4600
 - Using a Display port to HDMI adapter to connect to my TV
   
- ![alt test](/Pictures/AboutOptiplex4.png)
  
 # Notes:
 - I'm not responsible for any harm done to your PC :-) Use my experiences and EFI at your own risk, even though I think this doesn't do much harm ;-).
