@@ -86,6 +86,8 @@ Please note that I only use the latest Stable released versions of MacOS and Ope
 
 # Download my latest Big Sur EFI here (zip file):
 ![alt test](Pictures/Apple-icon.png)
+
+Download here. The EFI is without my serial number:
 https://mega.nz/folder/R0xwBAKJ#4hIlvkFZhdFMzu5AvSbppQ
 
 # Confirmed working:
