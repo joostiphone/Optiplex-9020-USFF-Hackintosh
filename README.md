@@ -85,6 +85,7 @@ Please note that I only use the latest Stable released versions of MacOS and Ope
 7. 25-March-2021: Updated to latest Big Sur version 11.2.3 (20D91) and latest OpenCore build (v0.6.7).
 
 # Download my latest Big Sur EFI here (zip file):
+![alt test](Pictures/Apple-icon.png)
 https://mega.nz/folder/R0xwBAKJ#4hIlvkFZhdFMzu5AvSbppQ
 
 # Confirmed working:
@@ -110,12 +111,11 @@ https://mega.nz/folder/R0xwBAKJ#4hIlvkFZhdFMzu5AvSbppQ
 
 
 # Resources
-https://www.tonymacx86.com/threads/the-4k-dell-optimac-big-sur-opencore-thread-dell-optiplex-7020-and-9020.302383/
-https://hackintosh.gitbook.io 
-https://dortania.github.io/OpenCore-Install-Guide/extras/big-sur/#backstory
-https://github.com/acidanthera/OpenCorePkg/releases
-https://github.com/williambj1/OpenCore-Factory/releases
-https://mackie100projects.altervista.org/download-opencore-configurator/
-https://github.com/Pavo-IM/OC-Gen-X
-https://github.com/Pavo-IM/ocbuilder
-
+- https://www.tonymacx86.com/threads/the-4k-dell-optimac-big-sur-opencore-thread-dell-optiplex-7020-and-9020.302383/
+- https://hackintosh.gitbook.io 
+- https://dortania.github.io/OpenCore-Install-Guide/extras/big-sur/#backstory
+- https://github.com/acidanthera/OpenCorePkg/releases
+- https://github.com/williambj1/OpenCore-Factory/releases
+- https://mackie100projects.altervista.org/download-opencore-configurator/
+- https://github.com/Pavo-IM/OC-Gen-X
+- https://github.com/Pavo-IM/ocbuilder
