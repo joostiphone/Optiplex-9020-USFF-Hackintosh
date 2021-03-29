@@ -13,11 +13,15 @@ This is my Hackintosh build using a Dell Optiplex 9020 Ultra Small Form Factor (
 - Graphics card: Intel HD Graphics 4600
 - Using a Display port to HDMI adapter to connect to my TV
   
- 
 # Notes:
 - I'm not responsible for any harm done to your PC :-) Use my experiences and EFI at your own risk, even though I think this doesn't do much harm ;-).
 - Most of the things I did went according @ trs96 his outstanding guides on: 
 https://www.tonymacx86.com/threads/the-dell-optimac-big-sur-opencore-thread.302383/
+
+# Create your USB stick with your pre-made as follows:
+https://github.com/joostiphone/MacOS-USB-Installer
+
+ ![alt test](/Pictures/USB-Big-Sur.png)
 
 # BIOS Settings (from tonymacx86.com):
 https://www.tonymacx86.com/threads/the-dell-optimac-big-sur-opencore-thread.302383/
@@ -110,7 +114,6 @@ https://mega.nz/folder/R0xwBAKJ#4hIlvkFZhdFMzu5AvSbppQ
 - AirDrop - No, due to lack if WiFi/BT module
 - HandOff - No, due to lack if WiFi/BT module
 - Side Car - No, due to lack if WiFi/BT module
-
 
 # Resources
 - https://www.tonymacx86.com/threads/the-4k-dell-optimac-big-sur-opencore-thread-dell-optiplex-7020-and-9020.302383/
