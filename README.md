@@ -91,8 +91,11 @@ Please note that I only use the latest Stable released versions of MacOS and Ope
 # Download my latest Big Sur EFI here (zip file):
 ![alt test](Pictures/Apple-icon.png)
 
-Download here. The EFI is without my serial number:
+Download here. The EFI is without my serial number, so you need to enter your own using OpenCore Configurator:
 https://mega.nz/folder/R0xwBAKJ#4hIlvkFZhdFMzu5AvSbppQ
+
+![alt test](Pictures/platforminfo.png)
+
 
 # Confirmed working:
 - CPU, RAM, Fans, Cooling etc. ✔ Stable temps.
