@@ -87,6 +87,7 @@ Please note that I only use the latest Stable released versions of MacOS and Ope
 5. 20-Jan-2021: Updated to latest Big Sur version 11.1 (20C69) and latest OpenCore build (v0.6.6).
 6. 13-Feb-2021: Updated to latest Big Sur version 11.2.1 (20D74).
 7. 25-March-2021: Updated to latest Big Sur version 11.2.3 (20D91) and latest OpenCore build (v0.6.7).
+8. 17-April-2021: Updated to latest OpenCore build (0.6.8). 
 
 # Download my latest Big Sur EFI here (zip file):
 ![alt test](Pictures/Apple-icon.png)
