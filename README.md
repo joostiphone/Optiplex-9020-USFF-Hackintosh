@@ -2,7 +2,7 @@
 This is my Hackintosh build using a Dell Optiplex 9020 Ultra Small Form Factor (in the Hackintosh community, also known as a OptiMac).
 
  ![alt test](/Pictures/AboutOptiplex5.png)
- ![alt test](/Pictures/OptiMac.jpg)
+ ![alt test](/Pictures/OptiMac1.jpg)
 
 # PC specifications:
 - OS's installed: Big Sur dualbooted with Windows 10 Pro
