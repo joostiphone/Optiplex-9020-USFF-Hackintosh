@@ -1,7 +1,7 @@
 # Optiplex-9020-USFF-Hackintosh
 This is my Hackintosh build using a Dell Optiplex 9020 Ultra Small Form Factor (in the Hackintosh community, also known as a OptiMac).
 
- ![alt test](/Pictures/AboutOptiplex4.png)
+ ![alt test](/Pictures/AboutOptiplex5.png)
  ![alt test](/Pictures/OptiMac.jpg)
 
 # PC specifications:
@@ -90,6 +90,7 @@ Please note that I only use the latest Stable released versions of MacOS and Ope
 8. 17-April-2021: Updated to latest OpenCore build (0.6.8). 
 9. 28-April-2021: Updated to MacOS 11.3 (20E232), using OpenCore v0.6.8.
 10. 9-May-2021: Updated to MacOS 11.3.1 (20E241), using OpenCore v0.6.8 (OC 0.6.9 EFI will follow soon).
+11. 9-May-2021: Updated to latest OpenCore build (0.6.9).
 
 # Download my latest Big Sur EFI here (zip file):
 ![alt test](Pictures/Apple-icon.png)
@@ -104,7 +105,7 @@ https://mega.nz/folder/R0xwBAKJ#4hIlvkFZhdFMzu5AvSbppQ
 - CPU, RAM, Fans, Cooling etc. ✔ Stable temps.
 - Ethernet ✔
 - Graphics ✔
-- HDMI (via adapter) ✔
+- HDMI (via adapter, make sure that you use the DisplayPort output nearest to the VGA port) ✔
 - Sleep/wake Function ✔
 - Power Management ✔
 - App Store ✔
