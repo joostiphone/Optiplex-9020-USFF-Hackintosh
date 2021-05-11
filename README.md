@@ -72,6 +72,11 @@ For convenvience purposes, use either OpenCore Configurator or Hackintool to mou
 # Update your OpenCore EFI (small how-to)
 ![alt test](Pictures/OpenCoreUpdate.png)
 
+ # Option 1: Update using HackinDROM. 
+ Download the app here and watch a how-to here:
+ https://www.youtube.com/watch?v=xRuerrG-lAU&t=50s
+
+ # Option 2: Manually
 https://github.com/joostiphone/Update-OpenCore-to-latest-version
 
 # Latest Changes in uploaded Big Sur EFI (without a Serial Number):
