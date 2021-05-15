@@ -127,6 +127,9 @@ https://mega.nz/folder/R0xwBAKJ#4hIlvkFZhdFMzu5AvSbppQ
 - HandOff - No, due to lack if WiFi/BT module
 - Side Car - No, due to lack if WiFi/BT module
 
+# Credits:
+https://github.com/joostiphone/Credits/blob/main/README.md
+
 # Resources
 - https://www.tonymacx86.com/threads/the-4k-dell-optimac-big-sur-opencore-thread-dell-optiplex-7020-and-9020.302383/
 - https://hackintosh.gitbook.io 
