@@ -26,14 +26,14 @@ https://github.com/joostiphone/MacOS-USB-Installer
 # BIOS Settings (from tonymacx86.com):
 https://www.tonymacx86.com/threads/the-dell-optimac-big-sur-opencore-thread.302383/
 
-# BIG SUR on OpenCore
-Big Sur with OpenCore is working very well. A small how-to here: 
+# OpenCore
+OpenCore is working very well. A small how-to here: 
 
 PRECAUSION:
 - I'm using OpenCore. You can download the latest build from here which you can use during the EFI creation as per below (or use mine...): https://github.com/acidanthera/OpenCorePkg/releases
 - Also great info from: https://dortania.github.io/OpenCore-Install-Guide/extras/big-sur/#backstory
 
-- USB preparation and installation of Big Sur according this video:
+- USB preparation and installation of Big Sur/Monterey according this video:
 https://www.youtube.com/watch?v=J22vqnS-QZ4&t=2s
 - Create your EFI:
 https://www.youtube.com/watch?v=XyDJMNMFi6I&t=58s
@@ -101,15 +101,20 @@ Please note that I only use the latest Stable released versions of MacOS and Ope
 11. 9-May-2021: Updated to latest OpenCore build (0.6.9).
 12. 12-June-2021: Updated to MacOS 11.4 (20F71), and Updated to latest OpenCore build (0.7.0).
 13. 11-July-2021: Updated to latest OpenCore build (0.7.1), and preparing for MacOS Monterey. Still using Big Sur though!
+14. 11-October-2021: Updated to latest OpenCore build (0.7.4), and using Monterey. Updated to MacOS 12.0 Beta 9.
 
 # Download my latest Big Sur EFI here (zip file):
 ![alt test](Pictures/Apple-icon.png)
 
 Download here. The EFI is without my serial number, so you need to enter your own using OpenCore Configurator:
+
+# Big Sur (OpenCore)
 https://mega.nz/folder/R0xwBAKJ#4hIlvkFZhdFMzu5AvSbppQ
 
-![alt test](Pictures/platforminfo.png)
+# Monterey (OpenCore)
+https://mega.nz/folder/t04m2AoJ#AmwIXnWD5GFv-X5kxCWFBQ
 
+![alt test](Pictures/platforminfo.png)
 
 # Confirmed working:
 - CPU, RAM, Fans, Cooling etc. ✔ Stable temps.
