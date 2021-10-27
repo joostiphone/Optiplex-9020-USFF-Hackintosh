@@ -5,11 +5,11 @@ This is my Hackintosh build using a Dell Optiplex 9020 Ultra Small Form Factor (
  ![alt test](/Pictures/OptiMac2.jpg)
 
 # PC specifications:
-- OS's installed: Big Sur dualbooted with Windows 10 Pro
+- OS's installed: Monterey dualbooted with Windows 11 Pro
 - PC Model: Dell Optiplex 9020 USFF (Ultra Small Form Factor)
 - Processor: Intel i5-4590s @ 3.00 Ghz (Haswell)
 - RAM: 16GB DDR3
-- Storage: 128 GB SSD x2: MacOS and Windows 10
+- Storage: 128 GB SSD x2: MacOS and Windows
 - Graphics card: Intel HD Graphics 4600
 - Using a Display port to HDMI adapter to connect to my TV
   
@@ -82,7 +82,7 @@ For convenvience purposes, use either OpenCore Configurator or Hackintool to mou
  # Option 2 (time consuming): Manually
 https://github.com/joostiphone/Update-OpenCore-to-latest-version
 
-# Latest Changes in uploaded Big Sur EFI (without a Serial Number):
+# Latest Changes on uploaded EFI (without a Serial Number):
 Please note that I only use the latest Stable released versions of MacOS and OpenCore (so no beta's, nighly builds or latest commitments).
 
 (Item 0 is the oldest):
@@ -103,7 +103,7 @@ Please note that I only use the latest Stable released versions of MacOS and Ope
 13. 11-July-2021: Updated to latest OpenCore build (0.7.1), and preparing for MacOS Monterey. Still using Big Sur though!
 14. 11-October-2021: IMPORTANT, due to Monterey not supporting older Mac's, we needed to update the SMBIOS version to Macmini7,1. This means that you NEED to create a new serial etc. for your system. Do this according to: https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html#fixing-imessage-and-other-services-with-opencore I'm now using latest OpenCore build (0.7.4), and Monterey. Updated to MacOS 12.0 Beta 9.
 
-# Download my latest Big Sur EFI here (zip file):
+# Download my latest EFI here (zip file):
 ![alt test](Pictures/Apple-icon.png)
 
 Download here. The EFI is without my serial number, so you need to enter your own using OpenCore Configurator:
