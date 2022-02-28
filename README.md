@@ -103,6 +103,7 @@ Please note that I only use the latest Stable released versions of MacOS and Ope
 13. 11-July-2021: Updated to latest OpenCore build (0.7.1), and preparing for MacOS Monterey. Still using Big Sur though!
 14. 11-October-2021: IMPORTANT, due to Monterey not supporting older Mac's, we needed to update the SMBIOS version to Macmini7,1. This means that you NEED to create a new serial etc. for your system. Do this according to: https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html#fixing-imessage-and-other-services-with-opencore I'm now using latest OpenCore build (0.7.4), and Monterey. Updated to MacOS 12.0 Beta 9.
 15. 11-November-2021: Updated to latest OpenCore build (0.7.5), and updated to MacOS 12.0.1 (21A559).
+16. 27-2-2022: OptiMac Monterey 12.2.1 (21D62) OC078
 
 # Download my latest EFI here (zip file):
 ![alt test](Pictures/Apple-icon.png)
