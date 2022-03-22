@@ -18,6 +18,7 @@ This is my Hackintosh build using a Dell Optiplex 9020 Ultra Small Form Factor (
 - I'm not responsible for any harm done to your PC :-) Use my experiences and EFI at your own risk, even though I think this doesn't do much harm ;-).
 - Most of the things I did went according @ trs96 his outstanding guides on: 
 https://www.tonymacx86.com/threads/the-dell-optimac-big-sur-opencore-thread.302383/
+- AMD GPU is NOT supported/tested and will fail to work without changes to the EFI.
 
 # Create your USB stick with your pre-made as follows:
 https://github.com/joostiphone/MacOS-USB-Installer
@@ -104,7 +105,8 @@ Please note that I only use the latest Stable released versions of MacOS and Ope
 13. 11-July-2021: Updated to latest OpenCore build (0.7.1), and preparing for MacOS Monterey. Still using Big Sur though!
 14. 11-October-2021: IMPORTANT, due to Monterey not supporting older Mac's, we needed to update the SMBIOS version to Macmini7,1. This means that you NEED to create a new serial etc. for your system. Do this according to: https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html#fixing-imessage-and-other-services-with-opencore I'm now using latest OpenCore build (0.7.4), and Monterey. Updated to MacOS 12.0 Beta 9.
 15. 11-November-2021: Updated to latest OpenCore build (0.7.5), and updated to MacOS 12.0.1 (21A559).
-16. 27-2-2022: OptiMac Monterey 12.2.1 (21D62) OC078
+16. 27-2-2022: OptiMac Monterey 12.2.1 (21D62) OpenCore 0.7.8.
+17. 22-3-2022: OptiMac Monterey 12.3 (21E230) OpenCore 0.7.9.
 
 # Download my latest EFI here (zip file):
 ![alt test](Pictures/Apple-icon.png)
