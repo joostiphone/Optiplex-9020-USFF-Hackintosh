@@ -23,7 +23,7 @@ https://www.tonymacx86.com/threads/the-dell-optimac-big-sur-opencore-thread.3023
 # Create your USB stick with your pre-made as follows:
 https://github.com/joostiphone/MacOS-USB-Installer
 
- ![alt test](/Pictures/USB-Stick-Logo-MacOS.png)
+ ![alt test](/Pictures/USB-STICK-VENT-MONT.png)
 
 # BIOS Settings (from tonymacx86.com):
 https://www.tonymacx86.com/threads/the-dell-optimac-big-sur-opencore-thread.302383/
