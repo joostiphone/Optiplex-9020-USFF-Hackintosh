@@ -20,7 +20,8 @@ This is my Hackintosh build using a Dell Optiplex 9020 Ultra Small Form Factor (
 https://www.tonymacx86.com/threads/the-dell-optimac-big-sur-opencore-thread.302383/
 - AMD GPU is NOT supported/tested and will fail to work without changes to the EFI.
 
-# Create your USB stick with your pre-made as follows:
+# Create your USB stick with your pre-made EFI:
+Please see this page:
 https://github.com/joostiphone/MacOS-USB-Installer
 
  ![alt test](/Pictures/USB-STICK-VENT-MONT.png)
