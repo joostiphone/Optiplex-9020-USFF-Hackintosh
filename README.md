@@ -3,7 +3,6 @@ This is my Hackintosh build using a Dell Optiplex 9020 Ultra Small Form Factor (
 
  ![alt test](/Pictures/2022-07-07_10-57-26.png)
  ![alt test](/Pictures/OptiMac2.jpg)
- ![alt test](/Pictures/Screenshot 2022-03-21 at 15.00.13.png)
 
 # PC specifications:
 - OS's installed: Monterey dualbooted with Windows 11 Pro
