@@ -1,5 +1,5 @@
 # Optiplex-9020-USFF-Hackintosh
-This is my Hackintosh build using a Dell Optiplex 9020 Ultra Small Form Factor (in the Hackintosh community, also known as a OptiMac).
+This is my Hackintosh build using a Dell Optiplex 9020 Ultra Small Form Factor (in the Hackintosh community, also known as a OptiMac) using OpenCore.
 
  ![alt test](/Pictures/2022-07-07_10-57-26.png)
  ![alt test](/Pictures/OptiMac2.jpg)
