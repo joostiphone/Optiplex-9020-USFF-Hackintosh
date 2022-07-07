@@ -107,7 +107,7 @@ Please note that I only use the latest Stable released versions of MacOS and Ope
 15. 11-November-2021: Updated to latest OpenCore build (0.7.5), and updated to MacOS 12.0.1 (21A559).
 16. 27-2-2022: OptiMac Monterey 12.2.1 (21D62) OpenCore 0.7.8.
 17. 22-3-2022: OptiMac Monterey 12.3 (21E230) OpenCore 0.7.9.
-18. 7-7-2022: OptiMac Monterey 12.4 OpenCore 0.8.2.
+18. 7-7-2022: OptiMac Monterey 12.4 OpenCore 0.8.2. **Should also work with Ventura (not tested myself yet since I'm on Monterey on this machine till Ventura goes final.**
 
 # Download my latest EFI here (zip file):
 ![alt test](Pictures/Apple-icon.png)
