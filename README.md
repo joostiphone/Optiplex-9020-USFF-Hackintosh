@@ -108,7 +108,8 @@ Please note that I only use the latest Stable released versions of MacOS and Ope
 16. 27-2-2022: OptiMac Monterey 12.2.1 (21D62) OpenCore 0.7.8.
 17. 22-3-2022: OptiMac Monterey 12.3 (21E230) OpenCore 0.7.9.
 18. 7-7-2022: OptiMac Monterey 12.4 OpenCore 0.8.2.
-19. 27-10-2022: OptiMac Ventura 13.0 (22A380) OpenCore 0.8.5. & changed system definition to iMac18,3. NO GRAPHICS ACCELERATION!!!
+19. 27-10-2022: Tried Ventura, but too much problems for now. Will try again later. 
+20. 30-10-2022: Going back to OptiMac Monterey 12.6.1 OpenCore 0.8.3. / 0.8.5
 
 # Download my latest EFI here (zip file):
 ![alt test](Pictures/Apple-icon.png)
