@@ -110,6 +110,7 @@ Please note that I only use the latest Stable released versions of MacOS and Ope
 18. 7-7-2022: OptiMac Monterey 12.4 OpenCore 0.8.2.
 19. 27-10-2022: Tried Ventura, but too much problems for now. Will try again later. 
 20. 30-10-2022: Going back to OptiMac Monterey 12.6.1 OpenCore 0.8.3. / 0.8.5
+21. 3-11-2022: got Ventura to work including the HD4600 using OCLP 0.5.1. resulting into 1536MB of memory. For now I will wait for some development of OCLP or HD4000 Patch by Chris1111 to be updated for Ventura. For now, I recommend to stay on Monterey. 
 
 # Download my latest EFI here (zip file):
 ![alt test](Pictures/Apple-icon.png)
