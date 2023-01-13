@@ -123,6 +123,9 @@ https://mega.nz/folder/R0xwBAKJ#4hIlvkFZhdFMzu5AvSbppQ
 # Monterey (OpenCore)
 https://mega.nz/folder/t04m2AoJ#AmwIXnWD5GFv-X5kxCWFBQ
 
+# Ventura (OpenCore)
+https://mega.nz/folder/w5BTCA5b#OIVugo3YLzY94q7DKuh3KQ
+
 ![alt test](Pictures/platforminfo.png)
 
 # Confirmed working:
