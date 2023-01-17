@@ -111,6 +111,8 @@ Please note that I only use the latest Stable released versions of MacOS and Ope
 19. 27-10-2022: Tried Ventura, but too much problems for now. Will try again later. 
 20. 30-10-2022: Going back to OptiMac Monterey 12.6.1 OpenCore 0.8.3. / 0.8.5
 21. 3-11-2022: got Ventura to work including the HD4600 using OCLP 0.5.1. resulting into 1536MB of memory. For now I will wait for some development of OCLP or HD4000 Patch by Chris1111 to be updated for Ventura. For now, I recommend to stay on Monterey. 
+22. 10-1-2023: OptiMac Ventura 13.1 OpenCore 0.8.8.
+
 
 # Download my latest EFI here (zip file):
 ![alt test](Pictures/Apple-icon.png)
@@ -125,6 +127,9 @@ https://mega.nz/folder/t04m2AoJ#AmwIXnWD5GFv-X5kxCWFBQ
 
 # Ventura (OpenCore)
 https://mega.nz/folder/w5BTCA5b#OIVugo3YLzY94q7DKuh3KQ
+
+[b] When using Ventura, don't forget to apply OpenCore Legacy Patcher after you've updated MacOS! [/b]
+
 
 ![alt test](Pictures/platforminfo.png)
 
