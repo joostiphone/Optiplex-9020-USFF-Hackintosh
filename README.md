@@ -128,7 +128,7 @@ https://mega.nz/folder/t04m2AoJ#AmwIXnWD5GFv-X5kxCWFBQ
 # Ventura (OpenCore)
 https://mega.nz/folder/w5BTCA5b#OIVugo3YLzY94q7DKuh3KQ
 
-[b] When using Ventura, don't forget to apply OpenCore Legacy Patcher after you've updated MacOS! [/b]
+<b> When using Ventura, don't forget to apply OpenCore Legacy Patcher after you've updated MacOS! </b>
 
 
 ![alt test](Pictures/platforminfo.png)
