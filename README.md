@@ -1,11 +1,11 @@
 # Optiplex-9020-USFF-Hackintosh
 This is my Hackintosh build using a Dell Optiplex 9020 Ultra Small Form Factor (in the Hackintosh community, also known as a OptiMac) using OpenCore.
 
- ![alt test](/Pictures/2022-07-07_10-57-26.png)
+ ![alt test](/Pictures/2023-02-16_09-43-40.png)
  ![alt test](/Pictures/OptiMac2.jpg)
 
 # PC specifications:
-- OS's installed: Monterey dualbooted with Windows 11 Pro
+- OS's installed: Ventura dualbooted with Windows 11 Pro
 - PC Model: Dell Optiplex 9020 USFF (Ultra Small Form Factor)
 - Processor: Intel i5-4590s @ 3.00 Ghz (Haswell)
 - RAM: 16GB DDR3
@@ -112,6 +112,7 @@ Please note that I only use the latest Stable released versions of MacOS and Ope
 20. 30-10-2022: Going back to OptiMac Monterey 12.6.1 OpenCore 0.8.3. / 0.8.5
 21. 3-11-2022: got Ventura to work including the HD4600 using OCLP 0.5.1. resulting into 1536MB of memory. For now I will wait for some development of OCLP or HD4000 Patch by Chris1111 to be updated for Ventura. For now, I recommend to stay on Monterey. 
 22. 10-1-2023: OptiMac Ventura 13.1 OpenCore 0.8.8.
+23. 16-2-2023: OptiMac Ventura 13.2.1 OpenCore 0.8.9.
 
 
 # Download my latest EFI here (zip file):
