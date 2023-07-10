@@ -113,6 +113,7 @@ Please note that I only use the latest Stable released versions of MacOS and Ope
 21. 3-11-2022: got Ventura to work including the HD4600 using OCLP 0.5.1. resulting into 1536MB of memory. For now I will wait for some development of OCLP or HD4000 Patch by Chris1111 to be updated for Ventura. For now, I recommend to stay on Monterey. 
 22. 10-1-2023: OptiMac Ventura 13.1 OpenCore 0.8.8.
 23. 16-2-2023: OptiMac Ventura 13.2.1 OpenCore 0.8.9.
+24. 10-7-2023: OptiMac Ventura 13.4.1 OpenCore 0.9.4 DEV. 
 
 
 # Download my latest EFI here (zip file):
