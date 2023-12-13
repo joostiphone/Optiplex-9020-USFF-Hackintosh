@@ -1,5 +1,5 @@
 # THIS BUILD IS ARCHIVED AND NOT MAINTAINED ANYMORE
-Reason: not interesting for me anymore, because this chip is too old, hence I'm not updating this hackintosh anymore. I recommend to OCAuxiliaryTools to update OC and OpenCoreLegacyPatcher to get stuff working.
+Reason: not interesting for me anymore, because this chip is too old, hence I'm not updating this hackintosh anymore. I recommend using OCAuxiliaryTools to update OC and OpenCoreLegacyPatcher to get stuff working.
 
 
 # Optiplex-9020-USFF-Hackintosh
