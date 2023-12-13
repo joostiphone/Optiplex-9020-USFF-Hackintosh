@@ -1,3 +1,7 @@
+# THIS BUILD IS ARCHIVED AND NOT MAINTAINED ANYMORE
+Reason: not interesting for me anymore, because this chip is too old, hence I'm not updating this hackintosh anymore. I recommend to OCAuxiliaryTools to update OC and OpenCoreLegacyPatcher to get stuff working.
+
+
 # Optiplex-9020-USFF-Hackintosh
 This is my Hackintosh build using a Dell Optiplex 9020 Ultra Small Form Factor (in the Hackintosh community, also known as a OptiMac) using OpenCore.
 
@@ -130,8 +134,6 @@ https://mega.nz/folder/t04m2AoJ#AmwIXnWD5GFv-X5kxCWFBQ
 
 # Ventura (OpenCore)
 https://mega.nz/folder/w5BTCA5b#OIVugo3YLzY94q7DKuh3KQ
-
-- text in red
 
 <b> When using Ventura, don't forget to apply OpenCore Legacy Patcher after you've updated MacOS! </b>
 
